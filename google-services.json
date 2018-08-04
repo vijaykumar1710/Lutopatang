@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601720889565",
+    "firebase_url": "https://lutopatang-a7e84.firebaseio.com",
+    "project_id": "lutopatang-a7e84",
+    "storage_bucket": "lutopatang-a7e84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601720889565:android:4219b1a04702f96a",
+        "android_client_info": {
+          "package_name": "com.example.vijay.lutopatang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601720889565-eutbt2v3v7n36sh27b48t30snv432k44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vijay.lutopatang",
+            "certificate_hash": "d9bbca4a9a1f03092cc1d8b64a16af1b1fed508d"
+          }
+        },
+        {
+          "client_id": "601720889565-v88o5u2kv444bmdpncbh5930bqqq067j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlkg8Mq8P8KDxS-jzTBJhW0IQeNfNn7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601720889565-v88o5u2kv444bmdpncbh5930bqqq067j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
